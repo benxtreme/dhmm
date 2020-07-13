@@ -1170,7 +1170,7 @@ section.lazy-placeholder:after {
   text-align: right;
 }
 .cid-s3aBUBtuor {
-  padding-top: 0px;
+  padding-top: 30px;
   padding-bottom: 15px;
   background-color: #ffffff;
 }
@@ -1202,6 +1202,12 @@ section.lazy-placeholder:after {
   .cid-s3aBUBtuor .card:not(.last-child) {
     padding-bottom: 2rem;
   }
+}
+.cid-s3aBUBtuor .mbr-section-subtitle {
+  text-align: center;
+}
+.cid-s3aBUBtuor .card-title {
+  text-align: center;
 }
 .cid-s3aM7gi1Yr {
   background-image: url("../../../assets/images/dhm-11.jpg");
