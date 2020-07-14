@@ -2916,10 +2916,110 @@ section.lazy-placeholder:after {
 .cid-s2LzFICQQ9 .dropdown-item:hover {
   color: #55b4d4 !important;
 }
-.cid-s4zdgpIup5 {
-  padding-top: 60px;
-  padding-bottom: 30px;
-  background-color: #2e2e2e;
+.cid-s4CZ0x4lMq {
+  background-image: url("../../../assets/images/bishop-dag-.jpg");
+}
+.cid-s4CZ0x4lMq h1 {
+  color: #616161;
+}
+.cid-s4CZ0x4lMq h2,
+.cid-s4CZ0x4lMq h3,
+.cid-s4CZ0x4lMq p {
+  color: #767676;
+}
+.cid-s4CZ0x4lMq .mbr-section-subtitle {
+  font-style: italic;
+}
+.cid-s4CZ0x4lMq H1 {
+  color: #ffffff;
+}
+.cid-s4CZ0x4lMq H3 {
+  color: #efefef;
+}
+.cid-s4D11uTXlQ {
+  background-image: url("../../../assets/images/bishop-dag-heward-mills.png");
+}
+.cid-s4D11uTXlQ h1 {
+  color: #616161;
+}
+.cid-s4D11uTXlQ h2,
+.cid-s4D11uTXlQ h3,
+.cid-s4D11uTXlQ p {
+  color: #767676;
+}
+.cid-s4D11uTXlQ .mbr-section-subtitle {
+  font-style: italic;
+}
+.cid-s4D11uTXlQ H3 {
+  color: #232323;
+}
+.cid-s4D11uTXlQ .mbr-text,
+.cid-s4D11uTXlQ .mbr-section-btn {
+  color: #344245;
+}
+.cid-s4D51nYd7S {
+  background-image: url("../../../assets/images/bishop-dag-heward-mills-beginnings.jpg");
+}
+.cid-s4D51nYd7S h1 {
+  color: #616161;
+}
+.cid-s4D51nYd7S h2,
+.cid-s4D51nYd7S h3,
+.cid-s4D51nYd7S p {
+  color: #767676;
+}
+.cid-s4D51nYd7S .mbr-section-subtitle {
+  font-style: italic;
+}
+.cid-s4D51nYd7S H3 {
+  text-align: center;
+}
+.cid-s4D51nYd7S .hs-bg {
+  background-color: #1c212a;
+  padding: 40px;
+}
+.cid-s4D51nYd7S .mbr-text,
+.cid-s4D51nYd7S .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-s4DbQ9bgBE {
+  background-image: url("../../../assets/images/evangelist-dag-heward-mills.png");
+}
+.cid-s4DbQ9bgBE h1 {
+  color: #616161;
+}
+.cid-s4DbQ9bgBE h2,
+.cid-s4DbQ9bgBE h3,
+.cid-s4DbQ9bgBE p {
+  color: #767676;
+}
+.cid-s4DbQ9bgBE .mbr-section-subtitle {
+  font-style: italic;
+}
+.cid-s4DbQ9bgBE H3 {
+  text-align: center;
+  color: #232323;
+}
+.cid-s4DbQ9bgBE .mbr-text,
+.cid-s4DbQ9bgBE .mbr-section-btn {
+  color: #344245;
+}
+.cid-s4DgdAdPBq {
+  background-image: url("../../../assets/images/anagkazo-bg.jpg");
+}
+.cid-s4DheZdAgs {
+  background-image: url("../../../assets/images/bishop-dag-heward-conference.png");
+}
+.cid-s4DheZdAgs .mbr-section-subtitle {
+  letter-spacing: .2rem;
+}
+.cid-s4DheZdAgs .media-container-column {
+  background-color: #4f4943;
+}
+@media (max-width: 767px) {
+  .cid-s4DheZdAgs .media-container-column {
+    padding: 1rem !important;
+  }
 }
 .cid-s2LzFICQQ9 .navbar {
   padding: .5rem 0;
